@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(240, 233, 238);
+    margin-left: 5%;
+    
+}
+.contenant {
+ position: relative;
+  text-align: left;
+}
+
+.texte_centrer {
+    
+
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(14, 7, 7); font-size: 30px; width: 600px;
+  text-align: justify;
+  text-indent: 10%;
+}
+h1 {
+    color: rgb(98, 12, 211);
+    font-size: 75px;
+    text-align: center;
+ }
+ #image {
+
+  text-align: center;
+
+   float: riglht;
+   width: 10px;
+   margin-right: 18%;
+   margin-top: 1px;
+ }
+
+ 
+
+.fast_burn {
+    position: relative;
+     text-align: left;
+     margin-top: 100px;
+   }
+   
+   .texte_fast {
+       
+   
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     color: rgb(14, 7, 7); font-size: 30px; width: 600px;
+     text-align: justify;
+     text-indent: 10%;
+   }
+   .nutrigo_lab_burner {
+    position: relative;
+     text-align: left;
+     margin-top: 100px;
+   }
+
+   .texte_nutrigo {
+       
+   
+    position: absolute;
+    top: 65%;
+    left: 50%;
+
+    
+    transform: translate(-50%, -50%);
+    color: rgb(14, 7, 7); font-size: 30px; width: 600px;
+    text-align: justify;
+    text-indent: 10%;
+  }
+
+  .piperinox {
+    position: relative;
+     text-align: left;
+     margin-top: 300px;  
+   }
+   
+   .texte_piperinox{
+       
+   margin-top: 10px;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     color: rgb(14, 7, 7); font-size: 30px; width: 600px;
+     text-align: justify;
+     text-indent: 10%;
+   }
+
+
+ul {
+  float:right
+  
+}
+#footer {
+  float: right;
+  padding-top: 3%;
+  margin-right: 15%;
+  padding-bottom: 5%;
+}
+  
+ 
